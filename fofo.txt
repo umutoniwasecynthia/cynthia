@@ -1,0 +1,8 @@
+<? php
+$l=4;
+$w=2;
+
+$area=$l*$W;
+echo "the area is:$l*$W";
+
+?>
